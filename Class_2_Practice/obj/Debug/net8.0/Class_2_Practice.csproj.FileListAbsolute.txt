@@ -34,3 +34,4 @@ C:\Users\ripal\source\repos\Class_2_Practice\Class_2_Practice\obj\Debug\net8.0\r
 C:\Users\ripal\source\repos\Class_2_Practice\Class_2_Practice\obj\Debug\net8.0\Class_2_Practice.pdb
 C:\Users\ripal\source\repos\Class_2_Practice\Class_2_Practice\obj\Debug\net8.0\Class_2_Practice.genruntimeconfig.cache
 C:\Users\ripal\source\repos\Class_2_Practice\Class_2_Practice\obj\Debug\net8.0\ref\Class_2_Practice.dll
+C:\Users\ripal\source\repos\Class_2_Practice\Class_2_Practice\obj\Debug\net8.0\Class_2_Practice.sourcelink.json
